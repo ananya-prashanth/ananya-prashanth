@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @ananya-prashanth
-- 👀 I’m interested in coding and AI/ML
-- 🌱 I’m currently learning more about CNN/yolo and trying to get better at it
 
 
 <!---
